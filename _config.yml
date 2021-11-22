@@ -1,7 +1,3 @@
-remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: [Alexander Petri]
-description: [PHD student at Stockholm University]
-
-theme: jekyll-theme-cayman
