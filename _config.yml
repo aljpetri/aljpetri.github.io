@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: [Alexander Petri]
 description: [PHD student at Stockholm University]
+
+theme: jekyll-theme-cayman
